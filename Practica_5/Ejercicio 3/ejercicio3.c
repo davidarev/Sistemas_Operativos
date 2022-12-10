@@ -1,3 +1,5 @@
+//No funciona del todo bien
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
