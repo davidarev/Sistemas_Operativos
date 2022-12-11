@@ -3,7 +3,7 @@
 #include <string.h>
 
 int main() {
-    FILE *origen = fopen("origen.txt", "r"); // Creamos y abrimos el archivo origen en modo lectura
+    FILE *origen = fopen("origen.txt", "r"); // Abrimos el archivo origen en modo lectura
     FILE *destino = fopen("destino.txt", "w"); // Creamos y abrimos el archivo destino en modo escritura
 
     char linea[100]; // Creamos un buffer para leer el contenido del archivo
