@@ -9,5 +9,5 @@ Justificar el proceso 7 PUNTOS.
 3. El productor y el consumidor comparten variables.
 4. El productor no puede acceder al buffer si está lleno.
 5. El consumidor no puede acceder al buffer si está vacío.
-
+------------------------------------------------------------------
 Nota: 5
