@@ -7,5 +7,5 @@ El programa que se muestra a continuación cuenta el número de veces que el car
 ### Ejercicio 3
 El programa que se muestra a continuación cuenta el número de veces que el caracter ‘a’ o ‘A’ aparece en el fichero indicado como parámetro de entrada. Modificarlo para que ahora se cree un thread y sea éste el que ejecute la función encargada de contar los caracteres. Justificar el proceso 3 PUNTOS.
 
-
+------------------------------------------------------------------
 Nota: 6
