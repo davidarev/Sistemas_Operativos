@@ -11,3 +11,7 @@ Escribir un programa que calcule la suma de los bytes ocupados por todos los fic
 * File Inode
 * File Permissions
 * Symbolic link (status): is or is not
+
+-----------------------------
+
+Nota: 10
